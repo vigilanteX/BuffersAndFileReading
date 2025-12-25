@@ -1,0 +1,9 @@
+When to use
+
+scripts
+
+learning
+
+config files
+
+one-time startup logic

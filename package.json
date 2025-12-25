@@ -1,0 +1,21 @@
+{
+  "name": "buffersandfilereading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buffersdemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigilanteX/BuffersAndFileReading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigilanteX/BuffersAndFileReading/issues"
+  },
+  "homepage": "https://github.com/vigilanteX/BuffersAndFileReading#readme",
+  "type": "module"
+}
